@@ -1,3 +1,9 @@
 # Folder view configuration files
 .DS_Store
 Desktop.ini
+
+# Terraform files
+.terraform/*
+terraform.tfstate
+terraform.tfstate.backup
+versions.tf
